@@ -1,6 +1,6 @@
-<img title="SARA" src="https://img.shields.io/badge/CODENAME%20-SARA-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge"> <img title="SARA" src="https://img.shields.io/badge/VERSION%20-3.0-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge">
+<img title="ransoo" src="https://img.shields.io/badge/CODENAME%20-SARA-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge"> <img title="SARA" src="https://img.shields.io/badge/VERSION%20-3.0-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge">
 ### About
-SARA is a simple tool to create Trojan or Ransomware for Android devices
+ransoo is a simple tool to create Trojan or Ransomware for Android devices
 ### Disclaimer
 This tool is made for education purpose only, the author is not responsible for any loses or damage caused by this programs
 ### Installation
@@ -8,16 +8,11 @@ This tool is made for education purpose only, the author is not responsible for 
 ```bash
 git clone https://github.com/Athexhacker/ransoo && cd ransoo && sudo bash install.sh && python3 ransoo.py
 ```
-### Demo
-* Generate Custom Trojan (metasploit)
+### CONTACT ME ON WHATSAPP FOR MORE POWERFULL TOOLS 
 
-[![asciicast](https://asciinema.org/a/604475.svg)](https://asciinema.org/a/604475)
-* Generate Custom Ransomware (File Locker)
-
-[![asciicast](https://asciinema.org/a/604490.svg)](https://asciinema.org/a/604490)
+Contact Number ; +92 3475549695
 
 ### Author
 Instagram [@itx_athex86](https://instagram.com/itx_athex86)
 
-### Credit's
 Copyright © 2025 by [ATHEX H4CK3R](https://github.com/athexhacker)
