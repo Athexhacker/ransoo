@@ -1,4 +1,4 @@
-<img title="ransoo" src="https://img.shields.io/badge/CODENAME%20-SARA-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge"> <img title="SARA" src="https://img.shields.io/badge/VERSION%20-3.0-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge">
+<img title="ransoo" src="https://img.shields.io/badge/CODENAME%20-RANSOO-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge"> <img title="ransoo" src="https://img.shields.io/badge/VERSION%20-3.0-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge">
 ### About
 ransoo is a simple tool to create Trojan or Ransomware for Android devices
 ### Disclaimer
