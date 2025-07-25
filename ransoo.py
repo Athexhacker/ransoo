@@ -448,7 +448,7 @@ class _athex_:
         prints(f'''
 {athex} : Hi user, welcome to @{y}ATHEX {w} :)
 
-{athex} : sara is a simple android ransomware attack
+{athex} : ransoo is a simple android ransomware attack
          this tool is made for education purpose only
          the author is not responsible for any loses
          or damage caused by this programs.
